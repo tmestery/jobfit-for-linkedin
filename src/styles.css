@@ -1,0 +1,25 @@
+#job-fit-meter {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.jfm-bar {
+  width: 120px;
+  height: 6px;
+  background: #e0e0e0;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.jfm-fill {
+  height: 100%;
+  background: #0a66c2;
+}
+
+.jfm-score {
+  font-size: 13px;
+  font-weight: 600;
+  color: #0a66c2;
+}
