@@ -12,7 +12,7 @@ Minimal design that blends with LinkedIn
 ## Installation
 
 Go to chrome://extensions in Chrome
-Publishing currently...
+Link: https://chrome.google.com/webstore/detail/gjabifknknjejcnleckjimoeonjmpmpe
 
 ## Usage
 
